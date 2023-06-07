@@ -1,5 +1,5 @@
 # ScenicOrNot
-##Codice del progetto per l'esame di Reti Neurali
+**Codice del progetto per l'esame di Reti Neurali**
 
 La repository contiene
 
